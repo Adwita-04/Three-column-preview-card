@@ -1,5 +1,5 @@
 # Three-column-preview-card
-# Car Categories Cards
+
 
 A simple webpage displaying different car categories using a clean and modern card design.
 
